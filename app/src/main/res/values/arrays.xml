@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="sort_options">
+        <item>Wg kapitalizacji</item>
+        <item>Wg ceny (rosnąco)</item>
+        <item>Wg zmiany 24h</item>
+    </string-array>
+</resources>
